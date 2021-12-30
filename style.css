@@ -189,7 +189,7 @@ body {
     content: "";
     width:40%;
     height:80%;
-    background-color: white;
+    /* background-color: white; */
     border-radius: 100%;
     border-right:0.5vmin solid darkorange;
     top:50%;
