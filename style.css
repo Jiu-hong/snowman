@@ -163,7 +163,7 @@ body {
     border-radius: 100% 90% 110% 100%;
     top:70%;
     left:50%;
-    background-color: pink;
+    /* background-color: pink; */
     transform:translate(-50%) rotate(3deg);
     border: 0.6vmin solid ;
     border-bottom-width: 0.9vmin;
